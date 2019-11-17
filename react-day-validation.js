@@ -1,4 +1,7 @@
 (function(){
+	// Implemented to prevent monetization without permission from all creators.
+	// If you are reading this, please open a PR against this repo to get in touch with me
+	
 	var due_date = new Date('2025-01-01');
 	var days_deadline = 1;
 	
